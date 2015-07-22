@@ -1,0 +1,26 @@
+1. The decision pmblem n~
+
+Glven a deck of n + 1 eanls mad: or which is impriuuxl wall. lwa cnlulmls of cimlvs along me
+two sides. Eau. column oomains in circles and some of me circles axe punduxl out la makl:
+holes so that one ean see lllongn. one or llle ands, called me mm card, has all llle circles
+ln one column punched onl and all me elrelna in me other eolnnln IL-fl. iumlct.
+
+Delennlne if there is a way of slaeklng up llle cards with me mm eanl on lap so that all
+me holes are covered (i.c. no one am one through). Nme that me we face; or eael. (2:11 am
+inzﬁsﬁnguisllable (l.e you may ﬂip llle caxd over)
+
+(n) Pmvc that n e NP
+
+(1,) Prove that LSAT lx n.
+
+[Hints:
+
+. For eael. variable n in me glven problem lnslanee of CLSAT, cream one card for n with
+one column eomaponds no 11. and llle other column comsponds lo .7
+
+u The number of circles in each column is me niulllmr of clausvs in me given pl'0ML‘ln
+inslanee or 3s1l1'
+
+. cnells on me card for variable 11. am pundned out based on llle loeallans or me aeene
+mucus or 11. and .7 in llle given probleul instance of &SAT.]
+

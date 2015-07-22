@@ -1,0 +1,23 @@
+     
+
+Histogram Equalization —« Opencv 2.4.1i1.6i
+documentation
+
+docs. opencv .org/.../histogra m__equalizati...
+H“{'}(i) = \sum_{0 \le j. To use this as a
+
+remapping function, we have to normalize H“{'}\
+(i) such that the maximum value...
+
+Operations on Arrays — Opencv 2.4.11.0
+rlocumentation
+
+locs. opencv .org/.../operations_.on_arrays...
+
+3 = abs(A-B) is equivalent to absdiff(A, B, C);
+: = abs(A) is equivalent to absdiff(A ,
+icalar::all(0), C)
+
+lmogram Calculation - 0pcnCV 2.4.11.0
+notlmnulion
+

@@ -1,0 +1,72 @@
+ 
+
+lmlluo
+
+   
+
+Practical Name:
+
+ 
+
+ 
+
+-month rum conlmls ll-ll: uarr or your LAN or your I§P recen/C5
+
+ 
+
+H Galcway A strvcr scrv=s as 2
+
+(l.'ktMl) lht L{7llL:\»:1) um work» ... ;. Viruvzlll and 61 proxy HL’l'\'Lr /\ (Jalcway 1% a dam “Ch T V“ M‘ v
+
+V‘ l_l4>L(l:l}])1AlA.l’ LIIDAMC tllmpmllng on :« s[(mdl1]ul]l:‘)2|S|5 hm lthlth aim pmvllluu Lnnllucllrxn Inf LUmnlunlL.:l'«'r'\ ml»
+
+"YC l)V‘|L’Y Ll)Hl[)lAH.YV mud mm ll) shanzd rc~ullrCC%
+\«vrll\.1H} 1| guuvvm)’ |\ 1l~.~K\LllA|(:d wilh ;. mm A router l« a dcvicc that ‘cl: you know me rluxl network um iwmld be
+u | In um \ mm up he connccled In morn: than one network at a mun. A galcwny u AS<o<.l:lKcd wllh a router hucauw
+
+.. rpm mph mes hcadcrs and forwardlng lablcs lo ﬁgure out when; packcls or data is can pmvidts the path through
+
+.\ hlch lnlbrmzlllon n mm m and out a gateway
+
+ 
+
+(bl Inlroductlan to various netwnnt mpolagies 2. Star, Mesh, Bus, Ring,1’rn em.)
+
+what Is a Topology?
+
+The physlcal lopalogy at a network refers lo the mnliguyatloh ol cabins, computevs, and uthev periaheralx.
+
+ 
+
+Physlzal topology should not be confused wlth logical mpnlagy which is the method used to pas ' crmauon between
+
+ 
+
+workstatlons
+
+Types uf Physical Topologies
+
+- ml;
+521
+
+ 
+
+Linear Ens
+
+A Ilnear bus topalam consists of a mam run of cable with a i at each and [See fig 1). All @ (me tewel,
+[thernel and lo:a7Ta|k nelwurks use 2 llnear bus
+
+workslauans, and nevipherals) are cunnecled (0 lhe llnear cable.
+
+lonologv
+
+Slgn ol Fatully wnlll ll :1:
+
+r ‘ W l1»“ll mplvwllltlul pm‘: rt 
+' lmllmm:h M
+W WNW, ‘lWHl'l“’lll
+
+ 
+
+/ltlivrlmlr. I
+
